@@ -5,12 +5,212 @@
     <link>https://aoikaneko.github.io/publication-type/1/</link>
       <atom:link href="https://aoikaneko.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aoikaneko.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://aoikaneko.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Multimodal Pseudo-Labeling under Various Shooting Conditions: Case Study on RGB and IR Images</title>
+      <link>https://aoikaneko.github.io/publication/kojima-2022-multimodal/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://aoikaneko.github.io/publication/kojima-2022-multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Viewpoint-Independent Single-View 3D Object Reconstruction Using Reinforcement Learning</title>
+      <link>https://aoikaneko.github.io/publication/ito-2022-viewpointindependent/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://aoikaneko.github.io/publication/ito-2022-viewpointindependent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Dataset Collection for Speech-Driven Gesture Generation</title>
+      <link>https://aoikaneko.github.io/publication/nagi-2021-automatic/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://aoikaneko.github.io/publication/nagi-2021-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bi-Directional Recurrent MVSNet for High-Resolution Multi-View Stereo</title>
+      <link>https://aoikaneko.github.io/publication/fujitomi-2021-bidirectional/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://aoikaneko.github.io/publication/fujitomi-2021-bidirectional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reducing Depth Ambiguity in 3D Human Pose and Body Shape Estimation</title>
+      <link>https://aoikaneko.github.io/publication/maruyama-2021-reducing/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://aoikaneko.github.io/publication/maruyama-2021-reducing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seeing Farther than Supervision: Self-Supervised Depth Completion in Challenging Environments</title>
+      <link>https://aoikaneko.github.io/publication/ito-2021-seeing/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://aoikaneko.github.io/publication/ito-2021-seeing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal Cross-Modal Attention for Audio-Visual Event Localization</title>
+      <link>https://aoikaneko.github.io/publication/nagasaki-2021-temporal/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://aoikaneko.github.io/publication/nagasaki-2021-temporal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>You Don&#39;t Drink a Cupboard: Improving Egocentric Action Recognition with Co-Occurrence of Verbs and Nouns</title>
+      <link>https://aoikaneko.github.io/publication/kojima-2021-you/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://aoikaneko.github.io/publication/kojima-2021-you/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complex Nonlinear and Grid-Sampling Harmonic Convolution for Rotation Equivariant Image Recognition</title>
+      <link>https://aoikaneko.github.io/publication/nakasato-2020-complex/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://aoikaneko.github.io/publication/nakasato-2020-complex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Bridging Networks for 3D Human Body Shape Estimation from a Single Depth Map</title>
+      <link>https://aoikaneko.github.io/publication/kaneko-2020-feature/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://aoikaneko.github.io/publication/kaneko-2020-feature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Detailed 3D Modeling: Mesh Super-Resolution via Deformation</title>
+      <link>https://aoikaneko.github.io/publication/tamura-2020-detailed/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://aoikaneko.github.io/publication/tamura-2020-detailed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Input and Output Representations for Speech-Driven Gesture Generation</title>
+      <link>https://aoikaneko.github.io/publication/kucherenko-2019-analyzing/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://aoikaneko.github.io/publication/kucherenko-2019-analyzing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boosting Monocular Depth Estimation with Channel Attention and Mutual Learning</title>
+      <link>https://aoikaneko.github.io/publication/takagi-2019-boosting/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://aoikaneko.github.io/publication/takagi-2019-boosting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Augmentation for Intra-Class Imbalance with Generative Adversarial Network</title>
+      <link>https://aoikaneko.github.io/publication/hase-2019-data/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://aoikaneko.github.io/publication/hase-2019-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Monocular Depth Estimation in Partially-Known Environments</title>
+      <link>https://aoikaneko.github.io/publication/kaneko-2019-deep/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://aoikaneko.github.io/publication/kaneko-2019-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple Human Tracking with Dual Cost Graphs</title>
+      <link>https://aoikaneko.github.io/publication/suga-2019-multiple/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://aoikaneko.github.io/publication/suga-2019-multiple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Importance of Representations for Speech-Driven Gesture Generation</title>
+      <link>https://aoikaneko.github.io/publication/kucherenko-2019-importance/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://aoikaneko.github.io/publication/kucherenko-2019-importance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robot Grasp Planning with Integration Map of Graspability and Object Occupancy</title>
+      <link>https://aoikaneko.github.io/publication/fukuzaki-2019-robot/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://aoikaneko.github.io/publication/fukuzaki-2019-robot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Modular Network Architecture for Depth Estimation from Single Indoor Images</title>
+      <link>https://aoikaneko.github.io/publication/ito-2018-deep/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://aoikaneko.github.io/publication/ito-2018-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of Speech-to-Gesture Generation Using Bi-Directional LSTM Network</title>
+      <link>https://aoikaneko.github.io/publication/hasegawa-2018-evaluation/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://aoikaneko.github.io/publication/hasegawa-2018-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Localization from a Single Image in Known Indoor Environments</title>
+      <link>https://aoikaneko.github.io/publication/ito-2018-global/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://aoikaneko.github.io/publication/ito-2018-global/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human Action Recognition via Body Part Region Segmented Dense Trajectories</title>
+      <link>https://aoikaneko.github.io/publication/yamada-2018-human/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://aoikaneko.github.io/publication/yamada-2018-human/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speech-to-Gesture Generation: A Challenge in Deep Learning Approach with Bi-Directional LSTM</title>
+      <link>https://aoikaneko.github.io/publication/takeuchi-2017-speechtogesture/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://aoikaneko.github.io/publication/takeuchi-2017-speechtogesture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-Stage Model Fitting Approach for Human Body Shape Estimation from a Single Depth Image</title>
+      <link>https://aoikaneko.github.io/publication/oyama-2017-twostage/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://aoikaneko.github.io/publication/oyama-2017-twostage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Logical Conjunction Based 3D Line Segments Matching between Observed Line Segments and Pre-Constructed 3D Wire Frame Model</title>
+      <link>https://aoikaneko.github.io/publication/kaneko-2016-logical/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://aoikaneko.github.io/publication/kaneko-2016-logical/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An example conference paper</title>
@@ -29,6 +229,14 @@
 &lt;/div&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Real-Time Virtual Dress Fitting System Using Gaming Sensor and 3D Textile Simulation</title>
+      <link>https://aoikaneko.github.io/publication/kaneko-2013-realtime/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://aoikaneko.github.io/publication/kaneko-2013-realtime/</guid>
+      <description></description>
     </item>
     
   </channel>

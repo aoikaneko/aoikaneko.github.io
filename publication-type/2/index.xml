@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Academic</title>
+    <link>https://aoikaneko.github.io/publication-type/2/</link>
+      <atom:link href="https://aoikaneko.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aoikaneko.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://aoikaneko.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Evaluation of Text-to-Gesture Generation Model Using Convolutional Neural Network</title>
+      <link>https://aoikaneko.github.io/publication/asakawa-2022-evaluation/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://aoikaneko.github.io/publication/asakawa-2022-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>動画内の音と映像によるイベント推定タスクにおける時間方向クロスモーダルアテンションの導入 (Temporal Cross-Modal Attention for Audio-Visual Event Localization)</title>
+      <link>https://aoikaneko.github.io/publication/nagasaki-2022-temporal/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://aoikaneko.github.io/publication/nagasaki-2022-temporal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moving Fast and Slow: Analysis of Representations and Post-Processing in Speech-Driven Automatic Gesture Generation</title>
+      <link>https://aoikaneko.github.io/publication/kucherenko-2021-moving/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://aoikaneko.github.io/publication/kucherenko-2021-moving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latent 3D Volume for Joint Depth Estimation and Semantic Segmentation from a Single Image</title>
+      <link>https://aoikaneko.github.io/publication/ito-2020-latent/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://aoikaneko.github.io/publication/ito-2020-latent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image-Retrieval Method Using Gradient Dilation Images for Cloud-Based Positioning System with 3D Wireframe Map</title>
+      <link>https://aoikaneko.github.io/publication/takahashi-2020-imageretrieval/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://aoikaneko.github.io/publication/takahashi-2020-imageretrieval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>自己教師あり学習を用いた多眼ステレオ (Self-Supervised Learning for Multi-View Stereo)</title>
+      <link>https://aoikaneko.github.io/publication/ito-2020-self/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://aoikaneko.github.io/publication/ito-2020-self/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bi-Directional LSTM Network を用いた発話に伴うジェスチャの自動生成手法 (Speech-to-Gesture Generation Using Bi-Directional LSTM Network)</title>
+      <link>https://aoikaneko.github.io/publication/kaneko-2019-bi/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://aoikaneko.github.io/publication/kaneko-2019-bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>食品チラシ画像を用いたレシピ推薦システム (Automatic Recipe Recommendation from Food Flyers)</title>
+      <link>https://aoikaneko.github.io/publication/kamata-2019-automatic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://aoikaneko.github.io/publication/kamata-2019-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ClothesAwarePoseNet: 衣服の領域分割を考慮した人物姿勢推定法 (ClothesAwarePoseNet: Two-Stream Convolutional Networks for Clothing-Aware Human Pose Estimation)</title>
+      <link>https://aoikaneko.github.io/publication/kaneko-2018-clothes/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://aoikaneko.github.io/publication/kaneko-2018-clothes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection of Defective Regions in 3D Reconstruction to Support Image Acquisition</title>
+      <link>https://aoikaneko.github.io/publication/ito-2017-detection/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://aoikaneko.github.io/publication/ito-2017-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Obstacle Detection for Monocular Autonomous Mobile Robots</title>
+      <link>https://aoikaneko.github.io/publication/kaneko-2017-fast/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://aoikaneko.github.io/publication/kaneko-2017-fast/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
